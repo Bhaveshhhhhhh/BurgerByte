@@ -47,6 +47,10 @@
 
 @media screen and (max-width:600px) {
     .home{
+
+        &::before {
+            display: none;
+        }
         >div{
             text-align: center;
             padding-top: 10rem;
