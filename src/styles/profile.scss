@@ -20,10 +20,12 @@
             height: 15rem;
             width: 15rem;
             border-radius: 100%;
+            border: 3px solid $red;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.146);
         }
 
         >h5 {
+            padding-top: 20px;
             font-size: 2rem;
         }
 
@@ -71,5 +73,9 @@
 
     .profile{
         height: 80vh;
+        >main>h5{
+            padding-top: 30px;
+            font-size: 1.6rem;
+        }
     }
 }

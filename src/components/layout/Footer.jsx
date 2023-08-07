@@ -5,11 +5,13 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h2>MBA Burger Wala</h2>
+        <h2>Burger Byte</h2>
         <p>we are trying to give you the best taste in the world.</p>
         <br />
         <em>we give attention to genuine feedback.</em>
-        <strong>@all rights received MBA burger wala</strong>
+        <br></br>
+        <br />
+        <strong>@all rights received Burger Byte</strong>
       </div>
       <aside>
         <h4>FOLLOW US ON.</h4>

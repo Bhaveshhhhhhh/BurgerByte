@@ -17,7 +17,7 @@ const Founder = () => {
         <img src={me} alt="founder" height={200} width={200} />
         <h3>Bhavesh Choudhary</h3>
         <p>
-          Hey, Everyone I am Bhavesh Choudhary Founder of MBA BURGER WALA.
+          Hey, Everyone I am Bhavesh Choudhary Founder of Burger Byte.
           <br /> Our aim is to create the most tasty burger on this planet.
         </p>
       </motion.div>

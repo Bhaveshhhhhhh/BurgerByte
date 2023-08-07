@@ -7,10 +7,10 @@
         padding-left: 8rem;
         padding-top: 15rem;
         >h1{
-            font-size: 4rem;
+            font-size: 5rem;
         }
         >p{
-            font-size: 1.2rem;
+            font-size: 1rem;
         }
     }
 
@@ -34,13 +34,13 @@
 
     &::before{
         content: "";
-        width: 100%;
+        width: 70%;
         height: 100%;
-        background-image: url("../assets/bg.svg");
+        background-image: url("../assets/main.svg");
         background-repeat: no-repeat;
         background-size: cover;
         position: absolute;
-        left: 0%;
+        left: 37%;
         z-index: -1;
     }
 }

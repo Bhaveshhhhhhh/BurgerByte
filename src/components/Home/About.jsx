@@ -9,10 +9,9 @@ const About = () => {
       <main>
         <h1>About Us</h1>
         <article>
-          <h4>MBA Burger Wala</h4>
+          <h4>Burger Byte</h4>
           <p>
-            We are MBA Burger Wala. The Place for most Tasty Burger on the
-            entire Earth.
+            Burger Byte. The Place for most Tasty Burger on the entire Earth.
           </p>
           <p>
             Explore Various Types of foods and Burger. Click Below To see the
@@ -30,8 +29,8 @@ const About = () => {
               <h3>Bhavesh Choudhary</h3>
             </div>
             <p>
-              I am Bhavesh Choudhary Founder Of MBA Burger Wala. <br /> All are
-              in the Search of{" "}
+              I am Bhavesh Choudhary Founder Of Burger Byte. <br /> All are in
+              the Search of{" "}
               <i>"Taste Kaha hai " ?.. So. "Taste yaha hai....." </i>
             </p>
           </article>
